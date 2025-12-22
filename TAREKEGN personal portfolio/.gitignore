@@ -1,3 +1,40 @@
+# Ignore common OS, editor, and personal files
+.cache/
+.gemini/
+.gitconfig
+.python_history
+.qodo/
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Game/
+Links/
+Men's Shoes1.zip
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Searches/
+Untitled-1.txt
+Videos/
+WPS Cloud Files/
+ims/
+ntuser.dat.LOG*
+ntuser.ini
+
+# Node / project
+node_modules/
+dist/
+build/
+
+# Misc
+.DS_Store
+Thumbs.db
 # Logs
 logs
 *.log
