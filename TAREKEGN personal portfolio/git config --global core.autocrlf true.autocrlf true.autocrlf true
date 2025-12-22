@@ -1,0 +1,4 @@
+git config --global core.autocrlf true
+git add --renormalize .
+git commit -m "Normalize line endings (core.autocrlf=true)"
+git push origin main
